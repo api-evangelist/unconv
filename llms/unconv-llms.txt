@@ -1,0 +1,25 @@
+# Unconventional AI
+
+> Unconventional AI (unconv.ai) is rethinking the foundations of the computer to optimize energy efficiency for AI, aiming to bring biology-scale efficiency to artificial intelligence through analog, dynamical-system hardware co-evolved with neural software. Founded by experts in AI systems, analog circuits, computing theory, and neuroscience; backed by Felicis. The company publishes research (including the Un-0 image-generation model built on coupled oscillators and the first Instruction Set Architecture for dynamical-system hardware) but does not yet publish a public API, developer portal, or SDKs.
+
+## Company
+
+- [Website](https://unconv.ai): Company homepage
+- [Blog](https://unconv.ai/blog/): Research, model releases, culture, and announcements
+- [Contact](mailto:info@unconv.ai): General contact email
+
+## Research highlights
+
+- [Smoothing the Triangle: Rethinking the Memory Stack for Unconventional AI](https://unconv.ai/blog/): 2026-07-09
+- [Speaking the Language of Physics: Introducing the First ISA for Dynamical System Hardware](https://unconv.ai/blog/): 2026-06-30
+- [Introducing Un-0: Generating Images with Coupled Oscillators](https://unconv.ai/blog/): 2026-06-25
+- [How to improve AI energy efficiency by 1000x](https://unconv.ai/blog/): 2026-05-07
+
+## API Evangelist profile
+
+- [APIs.json profile](https://raw.githubusercontent.com/api-evangelist/unconv/refs/heads/main/apis.yml): Machine-readable profile of Unconventional AI in the API Evangelist network
+
+## Notes
+
+- No public API, OpenAPI, developer documentation, or client SDKs were found as of 2026-07-21.
+- No /llms.txt, /.well-known/security.txt, or other .well-known discovery documents are published (all probed 404).

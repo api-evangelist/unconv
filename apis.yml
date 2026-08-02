@@ -1,8 +1,26 @@
 aid: unconv
-name: Unconv
-description: Unconv is a company surfaced as a portfolio company of felicis and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+name: Unconventional AI
+description: Unconventional AI (unconv.ai) is rethinking the foundations of the computer
+  to optimize energy efficiency for AI, working to bring biology-scale efficiency
+  to artificial intelligence through analog, dynamical-system hardware co-evolved
+  with neural software. Founded by experts in AI systems, analog circuits, computing
+  theory, and neuroscience, and backed by Felicis, the company publishes research
+  including the Un-0 image-generation model built on coupled Kuramoto oscillators
+  and an instruction set architecture for dynamical-system hardware, but does not
+  yet publish a public API, developer portal, or SDKs.
 url: https://raw.githubusercontent.com/api-evangelist/unconv/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://github.com/unconv-ai.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -10,10 +28,21 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Artificial Intelligence
+- AI Hardware
+- Analog Computing
+- Energy Efficiency
+- Machine Learning
+- Semiconductors
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,11 @@ maintainers:
 common:
 - type: Website
   url: https://unconv.ai
+- type: Blog
+  url: https://unconv.ai/blog/
+- type: GitHubOrganization
+  url: https://github.com/unconv-ai
+- type: LLMsTxt
+  url: llms/unconv-llms.txt
+- type: DomainSecurity
+  url: security/unconv-domain-security.yml
