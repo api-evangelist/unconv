@@ -9,6 +9,17 @@ description: Unconventional AI (unconv.ai) is rethinking the foundations of the 
   and an instruction set architecture for dynamical-system hardware, but does not
   yet publish a public API, developer portal, or SDKs.
 url: https://raw.githubusercontent.com/api-evangelist/unconv/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
